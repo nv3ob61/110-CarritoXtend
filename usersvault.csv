@@ -1,0 +1,9 @@
+DEF_NOMBRE,DEF_APELL1,DEF_APELL2,12345678Z,,Mani,manuel,USER,true,false
+pepe,alegre,llopis,12345679S,1111-1111|300.0|300.0,admin,admin,ADMIN,true,true
+Fernando,Fern,Andando,12345678Z,1111-2222|1000.0|1000.0,fer,nando,USER,true,false
+DEF_NOMBRE,DEF_APELL1,DEF_APELL2,12345678Z,,inactive,inactiv,DEF_ROL,false,false
+Juan,Antoni,Serrano,12345678Z,1111-1111|300.0|300.0,juan,828,USER,true,false
+Don Motu,Motu,Amotu,12345678Z,1111-2222|1000.0|1000.0,motu,828,ADMIN,true,false
+Pepe,Manuel,El puto perro,12345679S,,pepe,pepe2,USER,true,false
+Jose Del,Ano,Mariano,12345679S,,pepe2,pepe,USER,true,false
+Jose,Juan Martin,Delos Olivos,12345679S,3333|500.0|4536.0,pepe3,pepe,USER,false,true
